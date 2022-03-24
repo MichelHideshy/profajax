@@ -1,2 +1,2 @@
 # profajax
-Projeto do Prof Ajax
+projeto do professor ajax
